@@ -1,4 +1,4 @@
-Fork from [ClearURLs/Rules](https://github.com/ClearURLs/Rules)
+Forked from [ClearURLs/Rules](https://github.com/ClearURLs/Rules)
 
 # <sub><img src="https://gitlab.com/KevinRoebert/ClearUrls/raw/master/img/clearurls.svg" width="64px" height="64px"></sub> ClearURLs Rules
 
